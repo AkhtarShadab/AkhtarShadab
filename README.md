@@ -21,6 +21,9 @@ I'm an **Electrical Engineering student at IIT Kharagpur** with a strong interes
 **Indian Institute of Technology (IIT) Kharagpur**
 B.Tech — Electrical Engineering
 
+**Indian Institute of Technology (IIT) Kharagpur**
+M.Tech — Signal Processing and Machine Learning
+
 ### 💼 Experience
 
 **Samsung Research Institute, Bangalore** · *Software Engineer Intern*
