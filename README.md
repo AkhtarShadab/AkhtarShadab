@@ -13,17 +13,22 @@
 
 ---
 
-## 🧮 Mathematics — My First Language
+## 👨‍💻 About Me
 
-Before frameworks and languages, there's math. I'm drawn to the elegant structures that underpin everything in computing:
+I'm an **Electrical Engineering student at IIT Kharagpur** with a strong interest in applying machine learning and web development to solve real-world challenges and create innovative solutions.
 
-- **Probability & Statistics** — Modelling uncertainty in ML, availability math in distributed systems, statistical multiplexing
-- **Graph Theory** — Network topology, CDN routing, SLAM sensor fusion
-- **Linear Algebra & Kalman Filters** — State estimation for IMU/LiDAR/GPS fusion (see [MINS](https://github.com/AkhtarShadab/MINS))
-- **Combinatorics & Game Theory** — Bridge card game rules, bidding systems, optimal play
-- **Algorithms & Complexity** — DSA problem solving, Big-O analysis, system design trade-offs
+### 🎓 Education
+**Indian Institute of Technology (IIT) Kharagpur**
+B.Tech — Electrical Engineering
 
-> *"Mathematics is not about numbers, equations, or algorithms — it is about understanding."* — William Paul Thurston
+### 💼 Experience
+
+**Samsung Research Institute, Bangalore** · *Software Engineer Intern*
+> Worked on multi-sensor system calibration — focusing on multi-camera calibration, sensor fusion, and online calibration systems. This experience deepened my technical expertise and problem-solving skills.
+> 🏆 Received a **Pre-Placement Offer (PPO)** for contributions during the internship.
+
+**Manthan Innovations** · *Software Developer Intern*
+> Gained valuable experience in a fast-paced, collaborative environment, further honing technical and interpersonal skills.
 
 ---
 
@@ -51,12 +56,11 @@ Before frameworks and languages, there's math. I'm drawn to the elegant structur
 ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 
 ### AI / Machine Learning
-![Python](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Systems & Tools
-![C++](https://img.shields.io/badge/Systems_Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -68,7 +72,7 @@ Before frameworks and languages, there's math. I'm drawn to the elegant structur
 ### 🃏 [BridgeOnline](https://github.com/AkhtarShadab/BridgeOnlineNEXTJS)
 > Real-time multiplayer Bridge card game — where combinatorics meets web engineering
 
-A full-stack multiplayer card game built from scratch. The most mathematically rich project in my portfolio — Bridge involves contract theory, probability, and bidding strategy at its core.
+A full-stack multiplayer card game built from scratch. Bridge involves contract theory, probability, and bidding strategy at its core.
 
 **Stack:** Next.js 15 · React 19 · Socket.io · PostgreSQL · Prisma · NextAuth · Tailwind CSS · Playwright
 
@@ -91,7 +95,7 @@ A fork and active contribution to the AgentDesk platform — an AI agent orchest
 ### 🧭 [MINS — Multisensor Navigation System](https://github.com/AkhtarShadab/MINS)
 > Where mathematics meets the physical world
 
-An efficient multisensor-aided inertial navigation system capable of fusing **IMU, Camera, LiDAR, GPS/GNSS, and wheel sensors** with online calibration. Heavy use of Kalman filtering, state estimation, and SLAM math.
+An efficient multisensor-aided inertial navigation system capable of fusing **IMU, Camera, LiDAR, GPS/GNSS, and wheel sensors** with online calibration. Directly connected to my work at Samsung Research on multi-sensor calibration and sensor fusion.
 
 **Stack:** C++ · Kalman Filters · ROS · SLAM · Sensor Fusion
 
@@ -117,17 +121,15 @@ An efficient multisensor-aided inertial navigation system capable of fusing **IM
 
 ---
 
-## 📊 GitHub Stats
+## 🧮 Mathematics — My First Language
 
-<div align="center">
+Before frameworks and languages, there's math. As an EE student at IIT Kharagpur, mathematics isn't just a tool — it's a way of thinking. Areas I'm particularly drawn to:
 
-![Shadab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkhtarShadab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+- **Number Theory** — The foundation of cryptography, hashing, and secure systems
+- **Permutations** — Combinatorial reasoning that powers everything from card games to load balancing
+- **Convex Optimization** — The mathematics behind ML training, resource allocation, and cost minimization
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhtarShadab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkhtarShadab&theme=tokyonight&hide_border=true)
-
-</div>
+> *"Mathematics is not about numbers, equations, or algorithms — it is about understanding."* — William Paul Thurston
 
 ---
 
@@ -137,7 +139,7 @@ I maintain a public [Learning Repository](https://github.com/AkhtarShadab/Learni
 
 - 🃏 **BridgeOnline** — Game logic, real-time systems, WebRTC, scalability
 - 🤖 **AgentDesk** — Multi-agent architecture, orchestration patterns
-- ☁️ **Cloud Computing** — AWS mental models, architecture deep-dives (17 docs)
+- ☁️ **Cloud Computing** — AWS mental models, architecture deep-dives
 - 🔧 **Cline** — AI-assisted development workflows and knowledge base
 
 ---
@@ -156,5 +158,5 @@ I maintain a public [Learning Repository](https://github.com/AkhtarShadab/Learni
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;Mathematics+Enthusiast;AI+%26+ML+Explorer;Real-time+Systems+Builder;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=EE+Student+%40+IIT+Kharagpur;Full-Stack+Engineer;Mathematics+Enthusiast;AI+%26+ML+Explorer;Samsung+Research+PPO+Recipient" alt="Typing SVG" />
 </div>
